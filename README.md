@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jackson 
-- 👀 I’m interested in learning and gymming <3 
+- 👀 I’m interested in learning and gymming
 - 🌱 I’m currently studying Software engineering @UNSW
 - 📫 How to reach me kahowang3659@gmail.com!!
 
