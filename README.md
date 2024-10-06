@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackson 
-- 👀 Currently working on full stack development
-- 🌱 I’m currently studying Software engineering @UNSW
+- 👀 Currently working becoming a goated coder.
+- 🌱 I’m currently a Tutor and CS student @ UNSW
 - 📫 How to reach me kahowang3659@gmail.com!!
 
 <!---
